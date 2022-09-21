@@ -69,3 +69,8 @@ li a:hover {
     border-radius: 20px;
     flex-wrap: wrap;
 }
+
+img {
+    border-radius: 10%;
+    max-width: 100%;
+}
